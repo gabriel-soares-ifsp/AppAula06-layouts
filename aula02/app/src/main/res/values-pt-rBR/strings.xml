@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App aula 03</string>
+    <string name="hello">Olá Mundo!</string>
+    <string name="edt_nome">Digite seu nome:</string>
+    <string name="msg">Bem-vindo(a),</string>
+</resources>
