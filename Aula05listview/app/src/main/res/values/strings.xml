@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula05-list-view</string>
+    <string name="txt_btn_selecionar">Selecionar um estado</string>
+    <string-array name="estados">
+        <item>Espírito Santo</item>
+        <item>Minas Gerais</item>
+        <item>Rio de Janeiro</item>
+        <item>São Paulo</item>
+    </string-array>
+</resources>
